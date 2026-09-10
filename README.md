@@ -57,46 +57,6 @@
 - :link: [AI工程化课程推荐](#ai工程化课程推荐)
 
 
-## 大模型实验室Lab4AI普惠算力
-
-**基于大模型实验室的GPU算力实践**
-
-
-|  主题      | 实践          | 博客/视频     |
-|:------------ |:-----------------------------:|:--------:| 
-| 基于ComfyUI调用Flux文生图模型生成动漫风格图像      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=f82ca14acda040ba8a3412feb541ba29&type=project)          | [链接](https://mp.weixin.qq.com/s/OEDQO-IkT4uo_HMjBXGuCA)     |
-| 告别传统客服：三步骤，LLaMA-Factory零代码打造会订票的专属大模型      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=a78043adcef84cd998516e1bcd39562f&type=project)          | [链接](https://mp.weixin.qq.com/s/N_CQEBEjN0E31x4Vg31rEQ)    |
-| 打造基于多模态AI的苏东坡数字人      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=1f1097f45ea64abca3359e4c0615720a&type=project)          | -     |
-| WeClone：从聊天记录创造数字分身的一站式解决方案      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=ab83d14684fa45d197f67eddb3d8316c&type=project)          | [链接](https://mp.weixin.qq.com/s/2pOD8YexWtmuPhV4C7uKJA)     |
-| LightX2V 4步蒸馏模型：20倍速的高质量视频生成革命      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=d5556b93078d4defbb58c9f722b674df&type=project)          | [链接](https://mp.weixin.qq.com/s/kVz1dwthn3nOLT0jTeiQgg)     |
-| 基于Qwen3-8B的沉浸式苏东坡角色扮演大模型      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=315457fba1b3432c935865d1c5aa1ffe&type=project)          | [链接](https://mp.weixin.qq.com/s/bCCHa2RsKieJZizORU19dQ)     |
-| LightLLM轻量化部署新范式，打造高性能法律智能体      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=b417085ae8cd4dd0bef7161c3d583b15&type=project)          | [链接](https://mp.weixin.qq.com/s/j8rJyoBA02ypPEkxb9XSVg)     |
-| RoboMIND——机器人多形态通用智能评测基准      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=492a471cd6054a179660c760f0026704&type=project)          | [链接](https://mp.weixin.qq.com/s/i_QPGuqaXfql6cPELxlUVg)     |
-| 经典论文复现：《Attention Is All You Need》      | [链接](https://www.lab4ai.cn/paper/detail?utm_source=guodong&id=e90aa38fdff9420e8902bc71909fa005&type=paper)          | [链接](https://www.bilibili.com/video/BV1Fvp3zBEAN/?spm_id_from=333.1387.homepage.video_card.click)     |
-| 经典论文复现：《SELF-INSTRUCT: Aligning Language Models <br> with Self-Generated Instructions》| [链接](https://www.lab4ai.cn/paper/detail?utm_source=guodong&id=2bbf2f4971f74c6e8def26879233f2fe&type=paper)          | -     |
-
-
-
-**GPU算力优惠活动**
-
-- 资源不够用，来 Lab4AI 享 H800 GPU，用 H800 比 4090 还划算: [详情](https://mp.weixin.qq.com/s/61OtlvP3N4vl0D67eCzSWA)
-
-
-**算力福利**
-
-- 大模型实验室Lab4AI：[免费领取50元GPU算力](https://www.lab4ai.cn/register?agentID=user-PqCML6LJZO)
-- 大模型实验室群：[点击加入](https://github.com/liguodongiot/liguodongiot/tree/main/images/lab4ai.png)
-
-
-
-**AI训练营**
-
-- AI应用开发工程师技能 & 春招面试训练营：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=2b86361ed6a54611850c073defe04327)
-- 斯坦福CS336 从零手搓大语言模型实战：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=49325466ca58436782b65a887883805f)
-- 7天AI智能体全栈开发实战集训营：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=f3fba5d60b2542bf8783e59dcc24d836)
-
-
-
 ## LLM训练
 
 ### LLM训练实战
@@ -173,6 +133,8 @@
 - [大模型分布式训练并行技术（七）-自动并行](https://zhuanlan.zhihu.com/p/662517647)
 - [大模型分布式训练并行技术（八）-MOE并行](https://zhuanlan.zhihu.com/p/662518387)
 - [大模型分布式训练并行技术（九）-总结](https://zhuanlan.zhihu.com/p/667051845)
+- [大模型分布式训练并行技术（十）-通信量计算及训练耗时估算](https://zhuanlan.zhihu.com/p/2053636776309305923)
+
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -191,6 +153,8 @@
 - [Megatron-DeepSpeed](https://github.com/liguodongiot/llm-action/tree/main/train/megatron-deepspeed)
   - 基于 Megatron-DeepSpeed 从 0 到1 完成 LLaMA 预训练
   - 基于 Megatron-DeepSpeed 从 0 到1 完成 Bloom 预训练
+- [Nanotron](https://github.com/huggingface/nanotron)：一个用于预训练 Transformer 模型的库，其设计目标是易用、快速且可扩展。
+- [Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch)：基于阿里云智算服务PAI-灵骏平台的大模型最佳实践解决方案配套工具。是各类开源大模型和Megatron训练加速引擎之间的“桥梁”，为用户提供用Megatron训练开源大模型的易用性以及LLM算法场景定制化的灵活性。 同时它可以帮助大模型开发者快速上手PAI灵骏产品，完成大模型的高效分布式训练，有监督指令微调，模型离线推理验证等完整大模型开发链路。 
 
 
 ### 分布式训练网络通信
@@ -400,14 +364,35 @@ Instruction Following：
 ### LLM效果评测
 
 
+#### 测评集
+
 - [C-Eval](https://github.com/liguodongiot/ceval)：全面的中文基础模型评估套件，涵盖了52个不同学科的13948个多项选择题，分为四个难度级别。
 - [CMMLU](https://github.com/liguodongiot/CMMLU)：一个综合性的中文评估基准，专门用于评估语言模型在中文语境下的知识和推理能力。CMMLU涵盖了从基础学科到高级专业水平的67个主题。它包括：需要计算和推理的自然科学，需要知识的人文科学和社会科学,以及需要生活常识的中国驾驶规则等。此外，CMMLU中的许多任务具有中国特定的答案，可能在其他地区或语言中并不普遍适用。因此是一个完全中国化的中文测试基准。
 - [LVEval](https://github.com/liguodongiot/LVEval)：一个具备5个长度等级（16k、32k、64k、128k和256k）、最大文本测试长度达到256k的长文本评测基准。LV-Eval的平均文本长度达到102,380字，最小/最大文本长度为11,896/387,406字。LV-Eval主要有两类评测任务——单跳QA和多跳QA，共包含11个涵盖中英文的评测数据子集。LV-Eval设计时引入3个关键技术：干扰事实插入（Confusiong Facts Insertion，CFI）提高挑战性，关键词和短语替换（Keyword and Phrase Replacement，KPR）减少信息泄漏，以及基于关键词召回的评测指标（Answer Keywords，AK，指代结合答案关键词和字词黑名单的评价指标）提高评测数值客观性。
 - [IFEval: Instruction Following Eval](https://github.com/google-research/google-research/tree/master/instruction_following_eval)/[Paper](https://arxiv.org/abs/2311.07911)：专注评估大模型遵循指令的能力,包含关键词检测、标点控制、输出格式要求等25种任务。
 - [SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE)：一个综合性大模型评测基准，本次评测主要聚焦于大模型的四个能力象限，包括语言理解与生成、专业技能与知识、Agent智能体和安全性，进而细化为12项基础能力。
 - [AGIEval](https://github.com/ruixiangcui/AGIEval/)：用于评估基础模型在与人类认知和解决问题相关的任务中的能力。该基准源自 20 项面向普通考生的官方、公开、高标准的入学和资格考试，例如：普通大学入学考试（例如：中国高考（Gaokao）和美国 SAT）、法学院入学考试、数学竞赛、律师资格考试、国家公务员考试。
-- [OpenCompass](https://github.com/open-compass/opencompass/blob/main/README_zh-CN.md)：司南 2.0 大模型评测体系。
 - [LongBench](https://github.com/THUDM/LongBench)：一个双语（中英文）多任务基准数据集，旨在评估大语言模型的长上下文理解能力。它包含21个任务，涵盖单文档问答、多文档问答、摘要、小样本学习、合成任务和代码补全等。数据集平均任务长度范围为5k到15k，共包含4750个测试数据。LongBench 采用全自动评估方法，旨在以最低的成本衡量和评估模型理解长上下文的能力。
+
+
+
+Coding：
+
+- [Terminal-Bench v2](https://github.com/harbor-framework/terminal-bench-2)：一套命令行基准测试套件，用于评估 AI 代理在 89 个真实世界的多步骤终端任务中的表现。这些任务涵盖编译、调试到系统管理等多个方面，并在隔离的容器环境中运行，配有严格的验证机制。
+- [SWE-bench](https://github.com/swe-bench/SWE-bench)：一个用于评估大型语言模型在真实世界软件问题上表现的基准测试，这些问题收集自GitHub。 给定一个代码库和一个问题,语言模型的任务是生成一个补丁来解决描述的问题。
+
+Agent：
+
+- [Claw-Eval](https://github.com/claw-eval/claw-eval)：Claw-Eval 是一个用来评估大语言模型作为智能体的评估工具。所有任务均经过人工验证。
+
+Storage：
+
+- [MLPerf Storage Benchmark](https://github.com/mlcommons/storage)：用于评估机器学习训练场景下存储系统性能的开源基准测试套件。核心目标是衡量存储系统能否以足够快的速度向计算GPU提供训练数据，从而避免昂贵的GPU算力闲置。
+
+
+#### 测评工具
+
+- [OpenCompass](https://github.com/open-compass/opencompass/blob/main/README_zh-CN.md)：司南 2.0 大模型评测体系。
 - [EvalScope](https://github.com/modelscope/evalscope)：魔搭社区官方推出的模型评测与性能基准测试框架，专为多样化的模型评估需求而设计。它支持广泛的模型类型，包括但不限于大语言模型、多模态模型、Embedding 模型、Reranker 模型和 CLIP 模型。EvalScope还适用于多种评测场景，如端到端RAG评测、竞技场模式和模型推理性能压测等，其内置多个常用测试基准和评测指标，如MMLU、CMMLU、C-Eval、GSM8K等。
 
 
@@ -508,12 +493,13 @@ LLM Data Engineering
 
 ### Agent应用
 
+Harness:
 
+- [Harness 工程及设计模式](https://zhuanlan.zhihu.com/p/2042374186061058849)
 
 AI Assistant:
 
 - [OpenClaw](https://github.com/openclaw/openclaw)：一款个人 AI 助手
-
 
 Code Agent:
 
@@ -575,6 +561,8 @@ AI编译器是指将机器学习算法从开发阶段，通过变换和优化算
 - [AI 集群基础设施 NVMe SSD 详解](https://zhuanlan.zhihu.com/p/672098336)
 - [AI 集群基础设施 InfiniBand 详解](https://zhuanlan.zhihu.com/p/673903240)
 - [大模型训练基础设施：算力篇]()
+- [NVIDIA SHARP 技术解析：通过网络内计算提升分布式通信性能](https://zhuanlan.zhihu.com/p/2060851766304970672)
+- [NVIDIA InfiniBand 技术解析及应用](https://zhuanlan.zhihu.com/p/2062280295026529186)
 
 
 ### AI加速卡
